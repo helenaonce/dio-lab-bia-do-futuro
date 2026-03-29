@@ -17,19 +17,19 @@
 ## Roteiro do Edu
 
 ### 🎯 Problema (30 seg)
-> "62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar — e tem medo de parecer burro perguntando."
+> "Muitos profissionais de TI têm dificuldade em se comunicar em inglês no trabalho — seja em reuniões, entrevistas ou até lendo documentação. E o pior: sabem o básico, mas travam na hora de falar ou escrever, com medo de errar."
 
 ### 💡 Solução (60 seg)
-> "O Edu é um educador financeiro que ensina de forma personalizada. Ele usa seus próprios dados para dar exemplos práticos. Não recomenda investimentos — só educa. É como ter um professor particular de finanças disponível 24h."
+> "O DevEnglish é um professor de inglês focado no mundo da tecnologia. Ele ensina de forma prática, usando situações reais do dia a dia em TI. Em vez de só traduzir, ele te ajuda a pensar em inglês e aprender de verdade. É como ter um professor particular de inglês técnico disponível 24h."
 
 ### 📱 Demo (60 seg)
-> [Compartilhe a tela e faça 2-3 perguntas ao Edu]
-> - "O que é CDI?"
-> - "Onde estou gastando mais?"
-> - "Me explica o que é Tesouro Selic"
+> [Compartilhe a tela e faça 2-3 perguntas ao DevEnglish]
+> - "Como eu falo 'fiz uma reunião com o time'?"
+> - "I did a meeting with my boss"
+> - "O que eu falo quando termino uma tarefa?"
 
 ### ✨ Diferencial (30 seg)
-> "Diferente de chatbots genéricos, o Edu usa SEUS dados como exemplo. Isso torna o aprendizado concreto. E o melhor: roda 100% local, sem custo e sem enviar seus dados pra ninguém."
+> "Diferente de tradutores ou chatbots genéricos, o DevEnglish não entrega tudo pronto — ele te ensina a construir o inglês. Ele corrige, explica e te faz praticar. Isso acelera muito o aprendizado. E o melhor: pode rodar localmente, sem custo e sem depender de plataformas externas."
 
 ---
 
