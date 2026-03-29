@@ -1,6 +1,5 @@
-data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+data,contexto,frase_usuario,correcao,explicacao,evolucao
+2025-10-01,reuniao,"I did a meeting with the team","I had a meeting with the team","Use 'have' para reuniões",sim
+2025-10-03,entrevista,"I am working here since 2 years","I have been working here for 2 years","Present perfect para ações contínuas",sim
+2025-10-05,codigo,"I make a function","I write a function","'Write' é mais natural para código",sim
+2025-10-10,apresentacao,"I explain the dashboard yesterday","I explained the dashboard yesterday","Passado simples necessário",sim
