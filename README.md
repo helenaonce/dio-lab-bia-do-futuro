@@ -1,28 +1,32 @@
-# 🎓 Edu - Educador Financeiro Inteligente
+# 🎓 DevEnglish - Tutor Inteligente de Inglês para Devs
 
-> Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
+> Agente de IA Generativa que ensina inglês técnico para desenvolvedores de forma prática e personalizada, usando contexto real do dia a dia de programação.
 
-## 💡 O Que é o Edu?
+---
 
-O Edu é um educador financeiro que **ensina**, não recomenda. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
+## 💡 O Que é o DevEnglish?
 
-**O que o Edu faz:**
-- ✅ Explica conceitos financeiros de forma simples
-- ✅ Usa dados do cliente como exemplos práticos
-- ✅ Responde dúvidas sobre produtos financeiros
-- ✅ Analisa padrões de gastos de forma educativa
+O DevEnglish é um tutor de inglês que **ensina**, não apenas corrige. Ele ajuda desenvolvedores a aprender inglês técnico com explicações claras, exemplos reais e adaptação ao nível do usuário.
 
-**O que o Edu NÃO faz:**
-- ❌ Não recomenda investimentos específicos
-- ❌ Não acessa dados bancários sensíveis
-- ❌ Não substitui um profissional certificado
+**O que o DevEnglish faz:**
+- ✅ Corrige frases em inglês com explicação
+- ✅ Ensina vocabulário técnico
+- ✅ Ajuda em situações reais (PRs, entrevistas, documentação)
+- ✅ Adapta o conteúdo ao nível do usuário
+
+**O que o DevEnglish NÃO faz:**
+- ❌ Não traduz sem explicar
+- ❌ Não inventa regras gramaticais
+- ❌ Não substitui um professor humano
+
+---
 
 ## 🏗️ Arquitetura
 
 ```mermaid
 flowchart TD
     A[Usuário] --> B[Streamlit]
-    B --> C[Ollama - LLM Local]
+    B --> C[LLM]
     C --> D[Base de Conhecimento]
     D --> C
     C --> E[Resposta Educativa]
@@ -77,11 +81,11 @@ streamlit run src/app.py
 
 ## 🎯 Exemplo de Uso
 
-**Pergunta:** "O que é CDI?"  
-**Edu:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
-
-**Pergunta:** "Onde estou gastando mais?"  
-**Edu:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
+**Pergunta:** "I did a commit yesterday and fix a bug"  
+**DevEnglish:** "Correção: I made a commit yesterday and fixed a bug.
+→ 'Did' não é usado com 'commit', o correto é 'make a commit'.
+→ 'Fix' deve estar no passado: 'fixed'.
+Quer ver mais exemplos com 'commit'?"
 
 ## 📊 Métricas de Avaliação
 
@@ -95,7 +99,7 @@ streamlit run src/app.py
 
 - **Personalização:** Usa os dados do próprio cliente nos exemplos
 - **100% Local:** Roda com Ollama, sem enviar dados para APIs externas
-- **Educativo:** Foco em ensinar, não em vender produtos
+- **Educativo:** Foco em ensinar ativamente, não em apenas traduzir
 - **Seguro:** Estratégias de anti-alucinação documentadas
 
 ## 📝 Documentação Completa
